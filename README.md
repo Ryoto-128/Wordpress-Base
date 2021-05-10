@@ -1,1 +1,1 @@
-# Wordpress-Base
+# Wordpress-Template
